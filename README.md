@@ -1,3 +1,4 @@
+출처 : https://www.youtube.com/c/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A91 - [Youtube] 생활코딩 - 리액트 개정편
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
